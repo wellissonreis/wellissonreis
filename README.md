@@ -28,4 +28,6 @@ Aprendiz de Desenvolvimento Back-end
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align= "center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
