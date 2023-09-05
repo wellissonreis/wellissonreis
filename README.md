@@ -1,6 +1,6 @@
 ## Olá, eu sou Wellisson!! Seja bem vindo ao meu GitHub🖐️
 
-Aprendendo sobre desenvolvimento back-end 
+Aprendiz de Desenvolvimento Back-end 
 
 #### Sobre mim
 - 📖 Sou um estudante de Análise e desenvolvimento de sistemas na UERJ
