@@ -1,18 +1,6 @@
 ## Olá eu sou Wellisson!! Seja bem vindo ao meu GitHub🖐️
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wellissonreis&show_icons=true&theme=blue"
-    media="(prefers-color-scheme: blue)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wellissonreis&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wellissonreis&show_icons=true" />
-  
-</picture>
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellissonreis&hide_progress=false)
 
 <div>
