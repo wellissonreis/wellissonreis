@@ -1,6 +1,6 @@
 ## Olá, eu sou Wellisson!! Seja bem vindo ao meu GitHub🖐️
 
-Aprendendo sobre desenvolvimento backend 
+Aprendendo sobre desenvolvimento back-end 
 
 #### Sobre mim
 - 📖 Sou um estudante de Análise e desenvolvimento de sistemas na UERJ
@@ -28,4 +28,4 @@ Aprendendo sobre desenvolvimento backend
 <br />
 <br />
 
-
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
