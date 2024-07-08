@@ -4,9 +4,6 @@ Aprendiz de Desenvolvimento de Software
 
 #### Sobre mim
 - 📖 Sou um estudante de Análise e desenvolvimento de sistemas na UERJ
-- 💕 Sou apaixonado por tecnologias
-- 🤩 Entusiasta em CSharp e apaixonado por programação no geral
-- 👨🏿‍💻 Amante de novas técnologias e inovações
 
 <a href="https://github.com/wellissonreis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wellissonreis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WellissonGitHub" /></a> | <a href="https://github.com/wellissonreis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellissonreis&layout=compact&theme=buefy&hide_border=true" /></a>
 
