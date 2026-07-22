@@ -72,15 +72,6 @@ Plataforma de gestão de estoque com previsão de demanda, alertas de ruptura e 
 
 Aplicação para consumo e apresentação de dados de repositórios utilizando a API do GitHub, com foco em integração entre serviços e organização do código.
 
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wellissonreis&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellissonreis&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-</div>
-
 ---
 
 <div align="center">
