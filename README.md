@@ -2,9 +2,9 @@
 
 # Wellisson Reis
 
-### Desenvolvedor Back-end .NET | C# | PostgreSQL | APIs e Integrações
+### Desenvolvedor Back-end .NET | Análise de Requisitos | APIs e Integrações
 
-Desenvolvo soluções back-end para sistemas de gestão, integrações e aplicações orientadas a regras de negócio. Tenho experiência prática com manutenção e evolução de sistemas em produção, análise de problemas, desempenho e construção de APIs robustas.
+Desenvolvo soluções para problemas reais de negócio, atuando desde o entendimento da necessidade e definição dos requisitos até a implementação e evolução do software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellisson-reis2712/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Wellissonsilvareis28@gmail.com)
@@ -13,15 +13,17 @@ Desenvolvo soluções back-end para sistemas de gestão, integrações e aplica�
 
 ## Sobre mim
 
-Sou desenvolvedor com foco no ecossistema **.NET**, atuando na implementação e evolução de soluções que precisam ser confiáveis, organizadas e preparadas para crescer.
+Sou desenvolvedor com foco no ecossistema **.NET**, com experiência na manutenção e evolução de sistemas em produção, construção de APIs, integrações e implementação de regras de negócio.
 
-Minha experiência envolve APIs REST, integrações com serviços externos, bancos de dados relacionais, processamento assíncrono e investigação de problemas em ambientes de produção. Busco compreender o contexto do negócio antes de definir a solução técnica, equilibrando qualidade, desempenho e simplicidade.
+Tenho facilidade para analisar processos, identificar necessidades, investigar problemas e transformar demandas em requisitos claros e soluções técnicas viáveis. Posso atuar tanto no desenvolvimento back-end quanto na **análise de requisitos**, colaborando com usuários, suporte, produto e equipe técnica ao longo de todo o ciclo da solução.
 
-Também desenvolvo projetos autorais para aprofundar conhecimentos em arquitetura de software, aplicações distribuídas, inteligência artificial e desenvolvimento mobile.
+Busco equilibrar qualidade, desempenho e simplicidade, sempre considerando o impacto da decisão técnica sobre a operação e o negócio.
 
 ## Competências
 
-- **Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core e APIs REST
+- **Desenvolvimento back-end:** C#, .NET, ASP.NET Core, Entity Framework Core e APIs REST
+- **Análise de requisitos:** levantamento de necessidades, entendimento de processos, regras de negócio, documentação e validação de soluções
+- **Análise técnica:** investigação de incidentes, diagnóstico de causa raiz, desempenho e manutenção de sistemas em produção
 - **Dados:** PostgreSQL, SQL e Redis
 - **Mensageria e integrações:** RabbitMQ, WebSockets e integração com serviços externos
 - **Arquitetura:** Clean Architecture, arquitetura hexagonal, SOLID e padrões de projeto
@@ -29,13 +31,25 @@ Também desenvolvo projetos autorais para aprofundar conhecimentos em arquitetur
 - **Observabilidade:** OpenTelemetry, logs, métricas e rastreamento distribuído
 - **Outras tecnologias:** Go, TypeScript, React Native e Expo
 
-## Projetos em destaque
+## Projeto principal
 
 ### [Validade Fácil](https://github.com/wellissonreis/validate-facil)
 
-Aplicação mobile para controle de produtos, lotes e datas de validade em pequenos comércios. O projeto busca reduzir perdas por vencimento e simplificar a rotina de estoque por meio de leitura de código de barras, alertas e consultas rápidas.
+Aplicação criada para ajudar pequenos comércios, como mercados e padarias, a controlar produtos, lotes e datas de validade de forma simples.
 
-**Tecnologias:** React Native, Expo e TypeScript.
+O projeto nasceu da análise de um problema real: perdas financeiras causadas por produtos vencidos e dificuldade no acompanhamento manual do estoque. A solução centraliza o cadastro, facilita entradas por código de barras e oferece consultas e alertas para apoiar a tomada de decisão.
+
+**Principais recursos:**
+
+- Controle de produtos, lotes, quantidades e datas de validade
+- Entrada rápida por código de barras
+- Alertas de produtos vencidos e próximos do vencimento
+- Indicadores de estoque e histórico de movimentações
+- Fluxos pensados para uma operação simples e rápida
+
+**Tecnologias:** React Native, Expo, TypeScript, Go e PostgreSQL.
+
+## Outros projetos
 
 ### [Reis Inventory](https://github.com/wellissonreis/ReisInventory)
 
@@ -60,6 +74,6 @@ Aplicação para consumo e apresentação de dados de repositórios utilizando a
 
 <div align="center">
 
-Aberto a oportunidades e a conexões com profissionais de tecnologia.
+Aberto a oportunidades em desenvolvimento back-end e análise de requisitos.
 
 </div>
