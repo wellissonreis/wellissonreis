@@ -19,6 +19,17 @@ Tenho facilidade para analisar processos, identificar necessidades, investigar p
 
 Busco equilibrar qualidade, desempenho e simplicidade, sempre considerando o impacto da decisão técnica sobre a operação e o negócio.
 
+## Atuação profissional
+
+Atuo na [VVS Sistemas](https://www.vvssistemas.com.br/), empresa especializada em sistemas de gestão empresarial e automação comercial. Participo da análise, manutenção e evolução de produtos utilizados em operações reais, com contato próximo com regras de negócio, integrações e necessidades dos clientes.
+
+Entre os principais projetos em que atuo estão:
+
+- **[C-Plus](https://pages.vvssistemas.com.br/novo-c-plus)** — ERP de gestão comercial que integra vendas, estoque, compras, financeiro, documentos fiscais e comércio eletrônico.
+- **[WMS](https://www.instagram.com/reel/DQ65IptESxP/)** — solução para gestão e automação de operações de armazenagem, integrada ao ERP e a dispositivos de coleta.
+
+Minha atuação inclui análise de demandas e requisitos, diagnóstico de incidentes, desenvolvimento de melhorias, integrações com plataformas externas e acompanhamento das soluções até sua validação em ambiente de produção.
+
 ## Competências
 
 - **Desenvolvimento back-end:** C#, .NET, ASP.NET Core, Entity Framework Core e APIs REST
