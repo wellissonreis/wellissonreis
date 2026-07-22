@@ -44,7 +44,7 @@ O projeto nasceu da análise de um problema real: perdas financeiras causadas po
 - Controle de produtos, lotes, quantidades e datas de validade
 - Entrada rápida por código de barras
 - Alertas de produtos vencidos e próximos do vencimento
-- Indicadores de estoque e histórico de movimentações
+- Indicadores para acompanhamento de validade e estoque
 - Fluxos pensados para uma operação simples e rápida
 
 **Tecnologias:** React Native, Expo, TypeScript, Go e PostgreSQL.
